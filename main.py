@@ -3,7 +3,7 @@ import random
 highLimit = 10
 lowLimit = 1
 comGuess = 0
-count = 0
+count = 1
 
 hiddenNumber = int(input('Enter a hidden number: '))
 
